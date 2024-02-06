@@ -26,5 +26,8 @@
     <ClInclude Include="uzytkownik.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="apps.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

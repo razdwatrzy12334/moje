@@ -131,6 +131,7 @@
     <ClCompile Include="uzytkownik.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="apps.h" />
     <ClInclude Include="uzytkownik.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
