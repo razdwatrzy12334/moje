@@ -15,28 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="nywnwq.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="uzytkownik.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="apps.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="server.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="uzytkownik.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="apps.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="server.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

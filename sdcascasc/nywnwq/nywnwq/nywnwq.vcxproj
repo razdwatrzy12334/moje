@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2d928d6a-f893-4324-91da-cd5623f06353}</ProjectGuid>
-    <RootNamespace>cppwlasne</RootNamespace>
+    <ProjectGuid>{37e4c77d-190f-4e65-8e2d-5294a5fafd0f}</ProjectGuid>
+    <RootNamespace>nywnwq</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,15 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="apps.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="server.cpp" />
-    <ClCompile Include="uzytkownik.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="apps.h" />
-    <ClInclude Include="server.h" />
-    <ClInclude Include="uzytkownik.h" />
+    <ClCompile Include="nywnwq.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

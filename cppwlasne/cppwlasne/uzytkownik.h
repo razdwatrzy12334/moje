@@ -16,14 +16,3 @@ public:
 	void zmien_login();
 	void zmien_grupe();
 };
-class uzytkownicy 
-{
-private:
-
-public:
-	char login[30];
-	char password[30];
-	bool root = false;
-
-};
-

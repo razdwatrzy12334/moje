@@ -10,6 +10,7 @@ uzytkownik::uzytkownik(std::string login1, std::string password1, bool root1, st
 {
 	login = login1;
 	password = password1;
+	group = group1;
 	if (root1 == true)
 		root = true;
 }
